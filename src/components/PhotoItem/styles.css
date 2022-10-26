@@ -1,0 +1,11 @@
+.albumPhotos {
+	display: inline-block;
+	padding: 20px;
+	border: solid 2px #000;
+	margin: 10px;
+}
+
+button {
+	display: flex;
+	margin: 10px;
+}
